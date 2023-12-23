@@ -11,7 +11,7 @@ console.log(3+3); // Code readability should be high
 // bigint
 // string = ""
 // boolean = true/false
-// null => tandalone value
+// null => tandalone value (object)
 // undefined
 // symbol => unique 
 
