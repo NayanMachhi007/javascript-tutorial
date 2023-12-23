@@ -8,8 +8,17 @@
 
 // Array , Object , Function
 
-const Heros = ["Shaktiman" , "Nagraj" , "Goda"];
+// Array 
+const Heros = ["Shaktiman" , "Nagraj" , "Goda"]; 
+
+// Object
 let myObj = {
     Name: "Nayan",
     Age: "25",
+}
+
+// Function
+
+const Myfunction = function(){
+    console.log("Hello World");
 }
